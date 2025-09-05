@@ -1,4 +1,4 @@
-const nome = "cachorro do mangue"
+const nome = "Ninja do JS"
 
 function calculadoraDePartida(vitorias, derrotas) {
 	let saldo = vitorias - derrotas
